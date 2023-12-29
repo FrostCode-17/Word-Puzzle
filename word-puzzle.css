@@ -64,7 +64,7 @@
     animation: flash 1s;
   }
 
-  /* flashes red border and then fades back to gray */
+  /* flashes yellow border and then fades back to gray */
 @keyframes flash {
     5% {
       border-color: rgb(210, 220, 20);
